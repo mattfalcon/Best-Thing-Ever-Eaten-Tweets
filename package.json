@@ -1,0 +1,22 @@
+{
+  "name": "best-thing-ever-eaten-tweets",
+  "version": "1.0.0",
+  "description": "Twitter Bot for Randomly Selecting Tweets about \"Best Things Ever Eaten\"",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattfalcon/Best-Thing-Ever-Eaten-Tweets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattfalcon/Best-Thing-Ever-Eaten-Tweets/issues"
+  },
+  "homepage": "https://github.com/mattfalcon/Best-Thing-Ever-Eaten-Tweets#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}

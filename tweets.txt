@@ -1,0 +1,3794 @@
+[
+	{
+		"created_at": "Fri Jan 05 19:56:03 +0000 2018",
+		"id": 949368918250057700,
+		"id_str": "949368918250057728",
+		"text": "RT @npmjs: some cute wombat pics, a tech whodunnit, and @ceejbot's advice on how to handle an outage:\nhttps://t.co/Uece823xbg https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "npmjs",
+					"name": "npm, Inc.",
+					"id": 309528017,
+					"id_str": "309528017",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "ceejbot",
+					"name": "C J Silverio has a supportive 👊🏻 for you",
+					"id": 78663,
+					"id_str": "78663",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Uece823xbg",
+					"expanded_url": "https://buff.ly/2CTzIsv",
+					"display_url": "buff.ly/2CTzIsv",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 05 18:20:03 +0000 2018",
+			"id": 949344760187244500,
+			"id_str": "949344760187244544",
+			"text": "some cute wombat pics, a tech whodunnit, and @ceejbot's advice on how to handle an outage:\nhttps://t.co/Uece823xbg https://t.co/lvutJLQmdr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ceejbot",
+						"name": "C J Silverio has a supportive 👊🏻 for you",
+						"id": 78663,
+						"id_str": "78663",
+						"indices": [
+							45,
+							53
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Uece823xbg",
+						"expanded_url": "https://buff.ly/2CTzIsv",
+						"display_url": "buff.ly/2CTzIsv",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 949344757200846800,
+						"id_str": "949344757200846848",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DSzABt5WAAAd8qp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSzABt5WAAAd8qp.jpg",
+						"url": "https://t.co/lvutJLQmdr",
+						"display_url": "pic.twitter.com/lvutJLQmdr",
+						"expanded_url": "https://twitter.com/npmjs/status/949344760187244544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 398,
+								"h": 359,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 398,
+								"h": 359,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 398,
+								"h": 359,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 949344757200846800,
+						"id_str": "949344757200846848",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DSzABt5WAAAd8qp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSzABt5WAAAd8qp.jpg",
+						"url": "https://t.co/lvutJLQmdr",
+						"display_url": "pic.twitter.com/lvutJLQmdr",
+						"expanded_url": "https://twitter.com/npmjs/status/949344760187244544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 398,
+								"h": 359,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 398,
+								"h": 359,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 398,
+								"h": 359,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 309528017,
+				"id_str": "309528017",
+				"name": "npm, Inc.",
+				"screen_name": "npmjs",
+				"location": "oakland, ca",
+				"description": "i'm the package manager for javascript. problems? try @npm_support, @npmstatus, and #npm on https://t.co/xDhnKk03mi",
+				"url": "https://t.co/GbEuKmMRJq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GbEuKmMRJq",
+								"expanded_url": "https://www.npmjs.com/npm/private-packages",
+								"display_url": "npmjs.com/npm/private-pa…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xDhnKk03mi",
+								"expanded_url": "https://package.community",
+								"display_url": "package.community",
+								"indices": [
+									92,
+									115
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 77833,
+				"friends_count": 104,
+				"listed_count": 1441,
+				"created_at": "Thu Jun 02 07:20:53 +0000 2011",
+				"favourites_count": 443,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3320,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/263078148/npm-64-square.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/263078148/npm-64-square.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/765333670366355456/q5ACQ8i3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/765333670366355456/q5ACQ8i3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/309528017/1506362286",
+				"profile_link_color": "CB3837",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 05 19:28:03 +0000 2018",
+		"id": 949361872989556700,
+		"id_str": "949361872989556736",
+		"text": "The team @RisingStack compiled its most popular tutorials of 2017. Looking to go deeper into #nodejs in 2018? Check… https://t.co/3nl5pILIG0",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nodejs",
+					"indices": [
+						93,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RisingStack",
+					"name": "RisingStack",
+					"id": 2383288555,
+					"id_str": "2383288555",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3nl5pILIG0",
+					"expanded_url": "https://twitter.com/i/web/status/949361872989556736",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 05 15:46:16 +0000 2018",
+		"id": 949306057775636500,
+		"id_str": "949306057775636481",
+		"text": "This blog series is excellent. 👏 https://t.co/NQ1AlNYWtf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NQ1AlNYWtf",
+					"expanded_url": "https://twitter.com/captainsafia/status/949296049176432640",
+					"display_url": "twitter.com/captainsafia/s…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 949296049176432600,
+		"quoted_status_id_str": "949296049176432640",
+		"quoted_status": {
+			"created_at": "Fri Jan 05 15:06:29 +0000 2018",
+			"id": 949296049176432600,
+			"id_str": "949296049176432640",
+			"text": "Hi there!\n\nEver wonder what happens when you run `child_process.exec` in @nodejs?\n\nI read some code and found out!… https://t.co/fuCizokDih",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nodejs",
+						"name": "Node.js",
+						"id": 91985735,
+						"id_str": "91985735",
+						"indices": [
+							73,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fuCizokDih",
+						"expanded_url": "https://twitter.com/i/web/status/949296049176432640",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1595809370,
+				"id_str": "1595809370",
+				"name": "Safia Abdalla",
+				"screen_name": "captainsafia",
+				"location": "Chicago, IL",
+				"description": "I'm building https://t.co/gphQu8UACI at my startup, @tanmulabs. I run, write, and code a lot. Dream big and follow through even bigger.",
+				"url": "https://t.co/V0GnfJrMdF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/V0GnfJrMdF",
+								"expanded_url": "https://safia.rocks/",
+								"display_url": "safia.rocks",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gphQu8UACI",
+								"expanded_url": "http://zarf.co",
+								"display_url": "zarf.co",
+								"indices": [
+									13,
+									36
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13434,
+				"friends_count": 183,
+				"listed_count": 439,
+				"created_at": "Mon Jul 15 13:05:08 +0000 2013",
+				"favourites_count": 7648,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10686,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928374541583355906/SDNeU7BH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928374541583355906/SDNeU7BH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1595809370/1499215618",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 180,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 17,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 04 17:23:01 +0000 2018",
+		"id": 948968017945391100,
+		"id_str": "948968017945391104",
+		"text": "The importance of learning basic JavaScript from Derek Robinson in @TheNextWeb https://t.co/mKhm6O0tJ7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheNextWeb",
+					"name": "TNW",
+					"id": 10876852,
+					"id_str": "10876852",
+					"indices": [
+						67,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mKhm6O0tJ7",
+					"expanded_url": "http://bit.ly/2CfPvDR",
+					"display_url": "bit.ly/2CfPvDR",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 04 13:59:32 +0000 2018",
+		"id": 948916809335439400,
+		"id_str": "948916809335439361",
+		"text": "RT @NodeConfEU: 📆 SAVE THE DATE!\n\n📍 NodeConf EU 2018 will take place at @LyrathEstate Kilkenny November 4th - 8th 🎉\n\n#NodeConfEU #Nodejs #J…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NodeConfEU",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "Nodejs",
+					"indices": [
+						129,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NodeConfEU",
+					"name": "NodeConf EU",
+					"id": 526867353,
+					"id_str": "526867353",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "LyrathEstate",
+					"name": "Lyrath Estate",
+					"id": 2770138248,
+					"id_str": "2770138248",
+					"indices": [
+						72,
+						85
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 04 10:25:12 +0000 2018",
+			"id": 948862872909766700,
+			"id_str": "948862872909766658",
+			"text": "📆 SAVE THE DATE!\n\n📍 NodeConf EU 2018 will take place at @LyrathEstate Kilkenny November 4th - 8th 🎉\n\n#NodeConfEU #Nodejs #Javascript",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NodeConfEU",
+						"indices": [
+							101,
+							112
+						]
+					},
+					{
+						"text": "Nodejs",
+						"indices": [
+							113,
+							120
+						]
+					},
+					{
+						"text": "Javascript",
+						"indices": [
+							121,
+							132
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LyrathEstate",
+						"name": "Lyrath Estate",
+						"id": 2770138248,
+						"id_str": "2770138248",
+						"indices": [
+							56,
+							69
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 526867353,
+				"id_str": "526867353",
+				"name": "NodeConf EU",
+				"screen_name": "NodeConfEU",
+				"location": "Ireland",
+				"description": "NodeConf EU is the key #Nodejs event in Europe, providing a forum for the Node.js community.\nNov 4th-8th 2018  at @LyrathEstate, Kilkenny, Ireland.",
+				"url": "https://t.co/3z44jJK1WW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3z44jJK1WW",
+								"expanded_url": "http://www.nodeconf.eu/",
+								"display_url": "nodeconf.eu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2895,
+				"friends_count": 1694,
+				"listed_count": 174,
+				"created_at": "Fri Mar 16 22:45:48 +0000 2012",
+				"favourites_count": 976,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2350,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849181609844760576/38ODYD4y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849181609844760576/38ODYD4y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/526867353/1510265765",
+				"profile_link_color": "B12C65",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 99,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 03 23:00:16 +0000 2018",
+		"id": 948690505369612300,
+		"id_str": "948690505369612288",
+		"text": "ICYMI: \n\n🎉 #nodejs LTS v6.12.3 is out; mainly doc + test updates 🎉\n\nhttps://t.co/TBlduLdoXb\n\n🎉 #nodejs v8.9.4 is al… https://t.co/VPoCf9Foe9",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nodejs",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "nodejs",
+					"indices": [
+						95,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TBlduLdoXb",
+					"expanded_url": "https://nodejs.org/en/blog/release/v6.12.3/",
+					"display_url": "nodejs.org/en/blog/releas…",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/VPoCf9Foe9",
+					"expanded_url": "https://twitter.com/i/web/status/948690505369612288",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 03 22:40:21 +0000 2018",
+		"id": 948685489871179800,
+		"id_str": "948685489871179776",
+		"text": "RT @lydia_hallie: I’m making a list from the best JavaScript resources and will share it soon: what are your favorite resources, or resourc…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lydia_hallie",
+					"name": "Lydia Hallie",
+					"id": 879696238953865200,
+					"id_str": "879696238953865217",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 03 18:21:43 +0000 2018",
+			"id": 948620405224374300,
+			"id_str": "948620405224374272",
+			"text": "I’m making a list from the best JavaScript resources and will share it soon: what are your favorite resources, or r… https://t.co/jXdWikdzqe",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jXdWikdzqe",
+						"expanded_url": "https://twitter.com/i/web/status/948620405224374272",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 879696238953865200,
+				"id_str": "879696238953865217",
+				"name": "Lydia Hallie",
+				"screen_name": "lydia_hallie",
+				"location": "Stockholm, Sweden",
+				"description": "19 y/o JavaScript Developer 💻    React | Node | Express",
+				"url": "https://t.co/q8n3PEvtrT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/q8n3PEvtrT",
+								"expanded_url": "http://www.linkedin.com/in/lydia-hallie",
+								"display_url": "linkedin.com/in/lydia-hallie",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4571,
+				"friends_count": 64,
+				"listed_count": 47,
+				"created_at": "Tue Jun 27 13:41:42 +0000 2017",
+				"favourites_count": 112,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 49,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/933660989802807296/maudzPZE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/933660989802807296/maudzPZE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/879696238953865217/1503010457",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 290,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 03 18:31:01 +0000 2018",
+		"id": 948622743330787300,
+		"id_str": "948622743330787329",
+		"text": "The team at @npmjs made some changes to how package naming works. Read all about it here: https://t.co/CAoaNNGijf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "npmjs",
+					"name": "npm, Inc.",
+					"id": 309528017,
+					"id_str": "309528017",
+					"indices": [
+						12,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CAoaNNGijf",
+					"expanded_url": "http://bit.ly/2BRfo9S",
+					"display_url": "bit.ly/2BRfo9S",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 03 17:58:46 +0000 2018",
+		"id": 948614626631090200,
+		"id_str": "948614626631090176",
+		"text": "RT @jasnell: If you were one of the hundreds of new contributors to @nodejs last year, thank you and welcome. I hope that you continue to f…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jasnell",
+					"name": "James M Snell",
+					"id": 10399172,
+					"id_str": "10399172",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "nodejs",
+					"name": "Node.js",
+					"id": 91985735,
+					"id_str": "91985735",
+					"indices": [
+						68,
+						75
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 03 16:55:44 +0000 2018",
+			"id": 948598767078465500,
+			"id_str": "948598767078465537",
+			"text": "If you were one of the hundreds of new contributors to @nodejs last year, thank you and welcome. I hope that you co… https://t.co/YxZxsnEZ1w",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nodejs",
+						"name": "Node.js",
+						"id": 91985735,
+						"id_str": "91985735",
+						"indices": [
+							55,
+							62
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YxZxsnEZ1w",
+						"expanded_url": "https://twitter.com/i/web/status/948598767078465537",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10399172,
+				"id_str": "10399172",
+				"name": "James M Snell",
+				"screen_name": "jasnell",
+				"location": "Fresno, CA",
+				"description": "nearForm Open Source Architect; Node.js TSC. All around nice guy. #notmypresident",
+				"url": "https://t.co/WPpmJPylqp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WPpmJPylqp",
+								"expanded_url": "http://jasnell.me",
+								"display_url": "jasnell.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4175,
+				"friends_count": 2123,
+				"listed_count": 197,
+				"created_at": "Tue Nov 20 01:19:49 +0000 2007",
+				"favourites_count": 10006,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10275,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/937885042084163588/RSH7PEl9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/937885042084163588/RSH7PEl9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10399172/1505312170",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 123,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 03 16:12:00 +0000 2018",
+		"id": 948587759530324000,
+		"id_str": "948587759530323969",
+		"text": "RT @NodeSource: 🚀 We've launched Node by Numbers 2017 - an analysis of the @nodejs project over the last year.\n\nhttps://t.co/KP3xCItk4u",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NodeSource",
+					"name": "NodeSource",
+					"id": 807405552,
+					"id_str": "807405552",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "nodejs",
+					"name": "Node.js",
+					"id": 91985735,
+					"id_str": "91985735",
+					"indices": [
+						75,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KP3xCItk4u",
+					"expanded_url": "http://nsrc.io/2CkqTGK",
+					"display_url": "nsrc.io/2CkqTGK",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 03 15:52:38 +0000 2018",
+			"id": 948582885719773200,
+			"id_str": "948582885719773185",
+			"text": "🚀 We've launched Node by Numbers 2017 - an analysis of the @nodejs project over the last year.\n\nhttps://t.co/KP3xCItk4u",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nodejs",
+						"name": "Node.js",
+						"id": 91985735,
+						"id_str": "91985735",
+						"indices": [
+							59,
+							66
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KP3xCItk4u",
+						"expanded_url": "http://nsrc.io/2CkqTGK",
+						"display_url": "nsrc.io/2CkqTGK",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 807405552,
+				"id_str": "807405552",
+				"name": "NodeSource",
+				"screen_name": "NodeSource",
+				"location": "Worldwide",
+				"description": "NodeSource is the safest and most secure #nodejs platform. Secure. Reliable. Connected. Node.js.",
+				"url": "https://t.co/kgBSw8kEG5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kgBSw8kEG5",
+								"expanded_url": "https://nodesource.com",
+								"display_url": "nodesource.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10977,
+				"friends_count": 2072,
+				"listed_count": 464,
+				"created_at": "Thu Sep 06 19:00:26 +0000 2012",
+				"favourites_count": 4253,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4721,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/831194359034843136/lWqDN9SS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/831194359034843136/lWqDN9SS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/807405552/1423960245",
+				"profile_link_color": "323A3A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 03 15:58:40 +0000 2018",
+		"id": 948584402686066700,
+		"id_str": "948584402686066689",
+		"text": "RT @captainsafia: Hey-o!\n\nI did another annotated code read of the @nodejs code base.\n\nToday, I looked through the logic for module loading…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "captainsafia",
+					"name": "Safia Abdalla",
+					"id": 1595809370,
+					"id_str": "1595809370",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "nodejs",
+					"name": "Node.js",
+					"id": 91985735,
+					"id_str": "91985735",
+					"indices": [
+						67,
+						74
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 03 15:32:45 +0000 2018",
+			"id": 948577881835364400,
+			"id_str": "948577881835364352",
+			"text": "Hey-o!\n\nI did another annotated code read of the @nodejs code base.\n\nToday, I looked through the logic for module l… https://t.co/8qgdqXQefc",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nodejs",
+						"name": "Node.js",
+						"id": 91985735,
+						"id_str": "91985735",
+						"indices": [
+							49,
+							56
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8qgdqXQefc",
+						"expanded_url": "https://twitter.com/i/web/status/948577881835364352",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1595809370,
+				"id_str": "1595809370",
+				"name": "Safia Abdalla",
+				"screen_name": "captainsafia",
+				"location": "Chicago, IL",
+				"description": "I'm building https://t.co/gphQu8UACI at my startup, @tanmulabs. I run, write, and code a lot. Dream big and follow through even bigger.",
+				"url": "https://t.co/V0GnfJrMdF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/V0GnfJrMdF",
+								"expanded_url": "https://safia.rocks/",
+								"display_url": "safia.rocks",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gphQu8UACI",
+								"expanded_url": "http://zarf.co",
+								"display_url": "zarf.co",
+								"indices": [
+									13,
+									36
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13434,
+				"friends_count": 183,
+				"listed_count": 439,
+				"created_at": "Mon Jul 15 13:05:08 +0000 2013",
+				"favourites_count": 7648,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10686,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928374541583355906/SDNeU7BH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928374541583355906/SDNeU7BH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1595809370/1499215618",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 227,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 03 14:41:07 +0000 2018",
+		"id": 948564886308773900,
+		"id_str": "948564886308773889",
+		"text": "RT @mhdawson1: Thinking about porting or writing a #nodjs addon with N-API but wonder what it takes to get started ? This is a good article…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nodjs",
+					"indices": [
+						51,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhdawson1",
+					"name": "Michael Dawson",
+					"id": 2530643347,
+					"id_str": "2530643347",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 03 14:30:16 +0000 2018",
+			"id": 948562156127055900,
+			"id_str": "948562156127055872",
+			"text": "Thinking about porting or writing a #nodjs addon with N-API but wonder what it takes to get started ? This is a goo… https://t.co/rgpgwwsDs9",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "nodjs",
+						"indices": [
+							36,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rgpgwwsDs9",
+						"expanded_url": "https://twitter.com/i/web/status/948562156127055872",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2530643347,
+				"id_str": "2530643347",
+				"name": "Michael Dawson",
+				"screen_name": "mhdawson1",
+				"location": "Ottawa, Ontario",
+				"description": "Node.js community lead @ IBM, #nodejs collaborator and TSC member. Enjoys exploring tech and building apps to make daily life more fun! (tweets my own).",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 651,
+				"friends_count": 32,
+				"listed_count": 59,
+				"created_at": "Wed May 28 18:49:41 +0000 2014",
+				"favourites_count": 46,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 749,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770072786471624704/rCESGZfB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770072786471624704/rCESGZfB_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 03 14:35:37 +0000 2018",
+		"id": 948563504692432900,
+		"id_str": "948563504692432897",
+		"text": "RT @gibfahn: 🎉 v8.9.1 of @nodejs is out! 🎉  Comes with npm 5.6.0!\n\n https://t.co/IN7Fb7pUBL\n\n Get it with `nvm i --lts`",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gibfahn",
+					"name": "Gibson Fahnestock",
+					"id": 735118372631896000,
+					"id_str": "735118372631896065",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "nodejs",
+					"name": "Node.js",
+					"id": 91985735,
+					"id_str": "91985735",
+					"indices": [
+						25,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IN7Fb7pUBL",
+					"expanded_url": "https://nodejs.org/en/blog/release/v8.9.4/",
+					"display_url": "nodejs.org/en/blog/releas…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 03 04:52:47 +0000 2018",
+			"id": 948416828115693600,
+			"id_str": "948416828115693568",
+			"text": "🎉 v8.9.1 of @nodejs is out! 🎉  Comes with npm 5.6.0!\n\n https://t.co/IN7Fb7pUBL\n\n Get it with `nvm i --lts`",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nodejs",
+						"name": "Node.js",
+						"id": 91985735,
+						"id_str": "91985735",
+						"indices": [
+							12,
+							19
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IN7Fb7pUBL",
+						"expanded_url": "https://nodejs.org/en/blog/release/v8.9.4/",
+						"display_url": "nodejs.org/en/blog/releas…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 735118372631896000,
+				"id_str": "735118372631896065",
+				"name": "Gibson Fahnestock",
+				"screen_name": "gibfahn",
+				"location": "Hursley, England",
+				"description": "My thoughts are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 146,
+				"friends_count": 495,
+				"listed_count": 4,
+				"created_at": "Tue May 24 14:40:52 +0000 2016",
+				"favourites_count": 3024,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 166,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798628789404270592/bypfIyNK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798628789404270592/bypfIyNK_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 109,
+			"favorite_count": 170,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 02 19:17:27 +0000 2018",
+		"id": 948272042499084300,
+		"id_str": "948272042499084288",
+		"text": "RT @MylesBorins: 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉\n\nHappy @nodejs LTS day\n\nSuper Special I'm on Vacation Edition\n\n$ nvm install v6.12.3\n\nhttps://t.co/WD3zQPuTSV…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MylesBorins",
+					"name": "sMyle",
+					"id": 150664007,
+					"id_str": "150664007",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "nodejs",
+					"name": "Node.js",
+					"id": 91985735,
+					"id_str": "91985735",
+					"indices": [
+						35,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WD3zQPuTSV",
+					"expanded_url": "https://nodejs.org/en/blog/release/v6.12.3/",
+					"display_url": "nodejs.org/en/blog/releas…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 02 19:13:43 +0000 2018",
+			"id": 948271101674709000,
+			"id_str": "948271101674708992",
+			"text": "🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉\n\nHappy @nodejs LTS day\n\nSuper Special I'm on Vacation Edition\n\n$ nvm install v6.12.3… https://t.co/TNkar3WPVz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nodejs",
+						"name": "Node.js",
+						"id": 91985735,
+						"id_str": "91985735",
+						"indices": [
+							18,
+							25
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TNkar3WPVz",
+						"expanded_url": "https://twitter.com/i/web/status/948271101674708992",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 150664007,
+				"id_str": "150664007",
+				"name": "sMyle",
+				"screen_name": "MylesBorins",
+				"location": "New York, NY",
+				"description": "Artist, musician, developer, and maker / @nodejs TSC Director / developer advocate for @googlecloud / Opinions are potentially wrong, but definitely my own.",
+				"url": "https://t.co/DauDmjesNA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DauDmjesNA",
+								"expanded_url": "https://mylesborins.com",
+								"display_url": "mylesborins.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7092,
+				"friends_count": 1564,
+				"listed_count": 324,
+				"created_at": "Tue Jun 01 14:11:24 +0000 2010",
+				"favourites_count": 20583,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 23808,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/714160971137347584/kR6KSJbw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/714160971137347584/kR6KSJbw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/150664007/1499514541",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 87,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 02 16:30:01 +0000 2018",
+		"id": 948229906202267600,
+		"id_str": "948229906202267649",
+		"text": "#Angular and #JavaScript dominate Stack Overflow's 2017 skills report. Check out the top IT skills for 2018 via… https://t.co/jD1kanzz9g",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Angular",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "JavaScript",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jD1kanzz9g",
+					"expanded_url": "https://twitter.com/i/web/status/948229906202267649",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 02 15:34:56 +0000 2018",
+		"id": 948216043499147300,
+		"id_str": "948216043499147265",
+		"text": "RT @mhdawson1: Take part in the  #nodejs benchmarking Working Group survey - https://t.co/jxjJYd1Jqm.  Help us better understand how #nodej…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nodejs",
+					"indices": [
+						33,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhdawson1",
+					"name": "Michael Dawson",
+					"id": 2530643347,
+					"id_str": "2530643347",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jxjJYd1Jqm",
+					"expanded_url": "https://www.surveymonkey.com/r/NodeBenchmarking",
+					"display_url": "surveymonkey.com/r/NodeBenchmar…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 02 15:26:16 +0000 2018",
+			"id": 948213860909047800,
+			"id_str": "948213860909047809",
+			"text": "Take part in the  #nodejs benchmarking Working Group survey - https://t.co/jxjJYd1Jqm.  Help us better understand h… https://t.co/0X0tEhxrpJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "nodejs",
+						"indices": [
+							18,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jxjJYd1Jqm",
+						"expanded_url": "https://www.surveymonkey.com/r/NodeBenchmarking",
+						"display_url": "surveymonkey.com/r/NodeBenchmar…",
+						"indices": [
+							62,
+							85
+						]
+					},
+					{
+						"url": "https://t.co/0X0tEhxrpJ",
+						"expanded_url": "https://twitter.com/i/web/status/948213860909047809",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2530643347,
+				"id_str": "2530643347",
+				"name": "Michael Dawson",
+				"screen_name": "mhdawson1",
+				"location": "Ottawa, Ontario",
+				"description": "Node.js community lead @ IBM, #nodejs collaborator and TSC member. Enjoys exploring tech and building apps to make daily life more fun! (tweets my own).",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 651,
+				"friends_count": 32,
+				"listed_count": 59,
+				"created_at": "Wed May 28 18:49:41 +0000 2014",
+				"favourites_count": 46,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 749,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770072786471624704/rCESGZfB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770072786471624704/rCESGZfB_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 02 13:59:06 +0000 2018",
+		"id": 948191924959285200,
+		"id_str": "948191924959285248",
+		"text": "RT @trott: With 2017 officially over, time to confirm previously tweeted @nodejs velocity annual trends:\n\n2014: 2.9 commits per day\n2015: 6…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "trott",
+					"name": "Rich Trott",
+					"id": 8984012,
+					"id_str": "8984012",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "nodejs",
+					"name": "Node.js",
+					"id": 91985735,
+					"id_str": "91985735",
+					"indices": [
+						73,
+						80
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 02 00:52:03 +0000 2018",
+			"id": 947993860831043600,
+			"id_str": "947993860831043584",
+			"text": "With 2017 officially over, time to confirm previously tweeted @nodejs velocity annual trends:\n\n2014: 2.9 commits pe… https://t.co/CyDv6fUKVR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nodejs",
+						"name": "Node.js",
+						"id": 91985735,
+						"id_str": "91985735",
+						"indices": [
+							62,
+							69
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CyDv6fUKVR",
+						"expanded_url": "https://twitter.com/i/web/status/947993860831043584",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8984012,
+				"id_str": "8984012",
+				"name": "Rich Trott",
+				"screen_name": "trott",
+				"location": "San Francisco, CA",
+				"description": "I create software, rock operas, and pizzas. he/him",
+				"url": "http://t.co/ncfC0cj3NE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ncfC0cj3NE",
+								"expanded_url": "http://trott.github.com/",
+								"display_url": "trott.github.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1027,
+				"friends_count": 64,
+				"listed_count": 65,
+				"created_at": "Wed Sep 19 22:36:43 +0000 2007",
+				"favourites_count": 2093,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3856,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/460204257438748672/NE56U27B_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/460204257438748672/NE56U27B_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8984012/1398556384",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 125,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 30 01:06:32 +0000 2017",
+		"id": 946910341979615200,
+		"id_str": "946910341979615233",
+		"text": "@mathesondavid We are aiming to have it available early spring 2018.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mathesondavid",
+					"name": "David Matheson",
+					"id": 985930728,
+					"id_str": "985930728",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 946855988342280200,
+		"in_reply_to_status_id_str": "946855988342280193",
+		"in_reply_to_user_id": 985930728,
+		"in_reply_to_user_id_str": "985930728",
+		"in_reply_to_screen_name": "mathesondavid",
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 29 20:25:02 +0000 2017",
+		"id": 946839500076044300,
+		"id_str": "946839500076044290",
+		"text": "The Node.js benchmarking working group has a few questions to help them prioritize efforts in 2018. Have ten minute… https://t.co/DaIYZF9ChM",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DaIYZF9ChM",
+					"expanded_url": "https://twitter.com/i/web/status/946839500076044290",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 29 16:52:48 +0000 2017",
+		"id": 946786088735166500,
+		"id_str": "946786088735166466",
+		"text": "Welcome!!!! 🎉🎉🎉 https://t.co/By8NzqZKMU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/By8NzqZKMU",
+					"expanded_url": "https://twitter.com/trott/status/944959797060706305",
+					"display_url": "twitter.com/trott/status/9…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91985735,
+			"id_str": "91985735",
+			"name": "Node.js",
+			"screen_name": "nodejs",
+			"location": "Earth",
+			"description": "The Node.js JavaScript Runtime",
+			"url": "https://t.co/X32n3a0B1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X32n3a0B1h",
+							"expanded_url": "http://nodejs.org",
+							"display_url": "nodejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493481,
+			"friends_count": 646,
+			"listed_count": 6505,
+			"created_at": "Mon Nov 23 10:57:50 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1513020552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 944959797060706300,
+		"quoted_status_id_str": "944959797060706305",
+		"quoted_status": {
+			"created_at": "Sun Dec 24 15:55:46 +0000 2017",
+			"id": 944959797060706300,
+			"id_str": "944959797060706305",
+			"text": "🎉 Welcome newest @nodejs Collaborator Weijia Wang (starkwang on GitHub)! https://t.co/0ibTqNjUw3 🎉",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nodejs",
+						"name": "Node.js",
+						"id": 91985735,
+						"id_str": "91985735",
+						"indices": [
+							17,
+							24
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0ibTqNjUw3",
+						"expanded_url": "https://github.com/nodejs/node/pull/17847",
+						"display_url": "github.com/nodejs/node/pu…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8984012,
+				"id_str": "8984012",
+				"name": "Rich Trott",
+				"screen_name": "trott",
+				"location": "San Francisco, CA",
+				"description": "I create software, rock operas, and pizzas. he/him",
+				"url": "http://t.co/ncfC0cj3NE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ncfC0cj3NE",
+								"expanded_url": "http://trott.github.com/",
+								"display_url": "trott.github.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1027,
+				"friends_count": 64,
+				"listed_count": 65,
+				"created_at": "Wed Sep 19 22:36:43 +0000 2007",
+				"favourites_count": 2093,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3856,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/460204257438748672/NE56U27B_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/460204257438748672/NE56U27B_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8984012/1398556384",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	}
+]
