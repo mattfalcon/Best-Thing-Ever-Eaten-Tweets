@@ -34,6 +34,8 @@ var client = new Twitter({
 var all_tweets = [];
 var historic_tweets = [];
 
+
+var TweetPD = function () {
 //Run a search for best thing I ever ate
 client.get('search/tweets', {q: "LIVEPD", count: 30}, function(error, tweets, response) {
   // console.log(tweets);
@@ -99,4 +101,8 @@ fs.writeFile("historic_tweets.json", JSON.stringify(historic_tweets, null, '\t')
 
 
 });
+}
 
+//Calling Function
+TweetPD()
+// setInterval(TweetPD, 20000);
