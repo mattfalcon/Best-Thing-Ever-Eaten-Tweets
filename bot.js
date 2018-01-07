@@ -35,7 +35,7 @@ var all_tweets = [];
 var historic_tweets = [];
 
 //Run a search for best thing I ever ate
-client.get('search/tweets', {q: "LIVEPD"}, function(error, tweets, response) {
+client.get('search/tweets', {q: "LIVEPD", count: 30}, function(error, tweets, response) {
   // console.log(tweets);
 
   //loop through all tweets possible
@@ -69,7 +69,7 @@ client.get('search/tweets', {q: "LIVEPD"}, function(error, tweets, response) {
 
   //============POST TWEET ===========================================
   //Test case for tweeting out 
-  client.post('statuses/update', {status: selected_tweet.text + "Frm: " + selected_tweet.location}, function(error, tweet, response) {
+  client.post('statuses/update', {status: selected_tweet.text + "  Tweet Frm: " + selected_tweet.location}, function(error, tweet, response) {
     if (!error) {
       console.log(tweet);
     }
