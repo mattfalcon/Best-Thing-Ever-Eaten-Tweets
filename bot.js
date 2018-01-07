@@ -24,10 +24,10 @@ var fs = require('fs');
 
 //API KEYS
 var client = new Twitter({
- consumer_key: 'o1eINkvMFZcoL1YyAjHgDivy9',
- consumer_secret: 'tWwb7BeijDvzqrsdBzpcB4IpDdVrL9qHCVj5Wi6xYmkfRoOnlN',
- access_token_key: '914539088090451969-KgxXZHWi5gsQ8ot5WMyFpZCTtT2K8Pl',
- access_token_secret: 'AmDKRo2CaibtsPWrGmyjUS0z9zhkbgkrrRsoPLqVxiqeC'
+ consumer_key: '0028E6wfSeJvYZ4XnFL5YBqMm',
+ consumer_secret: '465yxieks9XvEOzjrTxQaWWQtuP5Kfe8MTkh022QbiGPKK37MA',
+ access_token_key: '914539088090451969-7wgLDZw6IGpnK1ktnyBMNCEQ6GzyoMv',
+ access_token_secret: '8OgHKofCsFOocJpjkg4PM1kG1U0TXH1oxPqod8LtqZCHs'
 });
 
 // Tweet Options 
