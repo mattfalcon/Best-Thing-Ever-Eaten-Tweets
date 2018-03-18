@@ -71,7 +71,7 @@ client.get('search/tweets', {q: "MicrosoftFlow", count: 30}, function(error, twe
 
   //============POST TWEET ===========================================
   //Test case for tweeting out 
-  client.post('statuses/update', {status: "RT @" + selected_tweet.screen_name + " " + selected_tweet.text + "  Tweet Frm: " + selected_tweet.location + " #office365 ROCKS! #amirite"}, function(error, tweet, response) {
+  client.post('statuses/update', {status: "RT @" + selected_tweet.screen_name + " " + selected_tweet.text + "  Tweet Frm: " + selected_tweet.location + " #office365 @Stop_Pre is a #NERD"}, function(error, tweet, response) {
     if (!error) {
       console.log(tweet);
     }
