@@ -37,7 +37,7 @@ var historic_tweets = [];
 
 var TweetPD = function () {
 //Run a search for best thing I ever ate
-client.get('search/tweets', {q: "MicrosoftFlow", count: 30}, function(error, tweets, response) {
+client.get('search/tweets', {q: "LivePD", count: 30}, function(error, tweets, response) {
   // console.log(tweets);
 
   //loop through all tweets possible
@@ -71,7 +71,7 @@ client.get('search/tweets', {q: "MicrosoftFlow", count: 30}, function(error, twe
 
   //============POST TWEET ===========================================
   //Test case for tweeting out 
-  client.post('statuses/update', {status: "RT @" + selected_tweet.screen_name + " " + selected_tweet.text + "  Tweet Frm: " + selected_tweet.location + " #office365 @Stop_Pre is a #NERD"}, function(error, tweet, response) {
+  client.post('statuses/update', {status: "RT @" + selected_tweet.screen_name + " " + selected_tweet.text + "  Tweet Frm: " + selected_tweet.location + "@Stop_Pre watches #LIVEPD daily"}, function(error, tweet, response) {
     if (!error) {
       console.log(tweet);
     }
@@ -105,4 +105,4 @@ fs.writeFile("historic_tweets.json", JSON.stringify(historic_tweets, null, '\t')
 
 //Calling Function
 TweetPD()
-setInterval(TweetPD, 10800000);
+setInterval(TweetPD, 7200000);
