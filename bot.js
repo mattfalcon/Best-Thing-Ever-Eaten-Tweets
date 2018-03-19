@@ -71,7 +71,7 @@ client.get('search/tweets', {q: "LivePD", count: 30}, function(error, tweets, re
 
   //============POST TWEET ===========================================
   //Test case for tweeting out 
-  client.post('statuses/update', {status: "RT @" + selected_tweet.screen_name + " " + selected_tweet.text + "  Tweet Frm: " + selected_tweet.location + " bad boys, bad boys, whatcha gonna do"}, function(error, tweet, response) {
+  client.post('statuses/update', {status: "RT @" + selected_tweet.screen_name + " " + selected_tweet.text + "  Tweet Frm: " + selected_tweet.location + " bad boys, bad boys, whatcha gonna do @Stop_PRE"}, function(error, tweet, response) {
     if (!error) {
       console.log(tweet);
     }
@@ -105,4 +105,4 @@ fs.writeFile("historic_tweets.json", JSON.stringify(historic_tweets, null, '\t')
 
 //Calling Function
 TweetPD()
-setInterval(TweetPD, 7200000);
+setInterval(TweetPD, 14400000);
